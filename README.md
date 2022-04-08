@@ -9,4 +9,4 @@ Python based Duolingo account checker which captures if account has Plus subscri
 
 - HTTP(S) Proxies are required
 - Free proxies work, but its very slow.
-
+- Stop the program by either pressing close button or ctrl + c
