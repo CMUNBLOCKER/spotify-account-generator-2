@@ -108,14 +108,6 @@ def main():
     def thread_starter():
         MAIN.login(proxies[proxy_counter], today)    
 
-    ctypes.windll.kernel32.SetConsoleTitleW(f"{name} - Starting" ) 
-    time.sleep(0.4)                                                           
-    ctypes.windll.kernel32.SetConsoleTitleW(f"{name} - Starting." ) 
-    time.sleep(0.4)                                                           
-    ctypes.windll.kernel32.SetConsoleTitleW(f"{name} - Starting.." ) 
-    time.sleep(0.4)                                                           
-    ctypes.windll.kernel32.SetConsoleTitleW(f"{name} - Starting..." ) 
-    time.sleep(0.4)   
 
     while True:
         try:
