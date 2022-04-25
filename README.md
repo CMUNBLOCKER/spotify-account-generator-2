@@ -1,7 +1,7 @@
 # Spotify Account Generator 
 Python based Spotify account generator.
 
-![image](https://user-images.githubusercontent.com/51265624/162515999-37ee27f5-df3a-432f-a23c-cb80a7a5e48a.png)
+![image](https://user-images.githubusercontent.com/51265624/165152578-1a23d9f1-84f7-4a9a-b6e9-8d806ac5e389.png)
 
 --------------------------------------
 ### Installation
